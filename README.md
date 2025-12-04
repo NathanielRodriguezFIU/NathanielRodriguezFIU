@@ -11,7 +11,9 @@ I'm also always trying to better my artistic ability, whether its 3D modeling or
 And coding wise, I'm well versed in Python, C++, C#, and GDScript!
 
 **Hobbies**: Gaming, Anime, Cooking, and going to the Gym!
+
 • Some of my favorite *games* are: Subnautica, Hollow Knight, Animal Crossing, Minecraft, and Lisa: The Painful.
+
 • Some of my favorite *anime* are: March Comes in Like a Lion, Deathnote, Full Metal Alchemist Brotherhood, and Ascendence of a Bookworm.
 
 <!--
